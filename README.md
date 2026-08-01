@@ -24,7 +24,7 @@ This is **Task 1** of my Web Development Internship at **SkillCraft Technology**
 | Contact | Contact information |
 
 ## 🔗 Live Demo
-[Add your Netlify/GitHub Pages link here once deployed]
+[https://lalitkumarmandal852.github.io/SCT_WD_1/]
 
 ## 📖 What I Learned
 - Building a fixed navbar using CSS `position: fixed`
